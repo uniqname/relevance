@@ -1,0 +1,24 @@
+{
+  "name": "relevance",
+  "version": "1.0.0",
+  "description": "Filters and sorts objects by relevance based on a search string.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqname/relevance.git"
+  },
+  "author": "Cory Brown <oh.wise.man@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uniqname/relevance/issues"
+  },
+  "homepage": "https://github.com/uniqname/relevance#readme"
+}
